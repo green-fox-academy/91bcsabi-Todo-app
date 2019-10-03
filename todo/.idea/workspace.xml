@@ -13,9 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="230de594-ebc5-499d-be89-4c01f52d2faf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/todo.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/todo.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tasks.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/todo" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/todo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,7 +77,7 @@
       <workItem from="1570089766887" duration="4602000" />
       <workItem from="1570102656170" duration="14000" />
       <workItem from="1570103114476" duration="9000" />
-      <workItem from="1570103977575" duration="1641000" />
+      <workItem from="1570103977575" duration="2060000" />
     </task>
     <servers />
   </component>

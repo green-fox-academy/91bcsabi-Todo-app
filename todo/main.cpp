@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
     }
     else if(std::string(argv[1]) == ("-a")){
         if (argc == 2){
-                std::cout << "not written anything after -a .please add something" << std::endl;
+                std::cout << "not written anything after -a .Please write something" << std::endl;
         }else{
             addTask(argv[2]);
             }
