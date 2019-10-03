@@ -13,12 +13,16 @@ void printUsage() {
     std::cout << "      -c   Completes an task" << std::endl;
 }
 
+<<<<<<< HEAD
 void addTask(std::string newTask){
     std::ofstream myFile;
     myFile.open("tasks.txt", std::ios::app);
     myFile << "\n" + newTask;
     myFile.close();
 }
+=======
+void
+>>>>>>> c44d4cf120952e8284bccc4c8478f144e01c0e3d
 
 void listTasks() {
     std::ifstream myFile;
