@@ -35,12 +35,14 @@ void addTask(std::string newTask){
     myFile.close();
 }
 
-void removeTasks(int position){
+void removeTasks(std::string line){
     std::ifstream myFile;
+    std::ofstream outfile;
     myFile.open("tasks.txt");
-    position = line.find(deleteLine);
-    if (position != string::npos) {
-        line.replace(line.find(deleteLine), deleteLine.length(), "");
+    while(getline(myFile,line))
+    {
+        if(line!=line)
+            outfile<<line<<std::endl;
     }
     myFile.close();
 }
