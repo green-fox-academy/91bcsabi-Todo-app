@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug"/>
+				<Option working_dir="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug"/>
+				<Option working_dir="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug"/>
+				<Option working_dir="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="todo">
-				<Option output="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/todo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug"/>
+				<Option output="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/todo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 todo"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 todo"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="todo/fast">
-				<Option output="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/todo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug"/>
+				<Option output="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/todo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 todo/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 todo/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/Csabi/Desktop/Todo\ app/bcsabi-Todo-app/todo/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/main.cpp">
+		<Unit filename="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/main.cpp">
 			<Option target="todo"/>
 		</Unit>
-		<Unit filename="/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/CMakeLists.txt">
+		<Unit filename="/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

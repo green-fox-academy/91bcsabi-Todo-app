@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo
+CMAKE_SOURCE_DIR = "/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug
+CMAKE_BINARY_DIR = "/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug"
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles /Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles" "/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles/progress.marks"
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles" 0
 .PHONY : all
 
 # The main clean target

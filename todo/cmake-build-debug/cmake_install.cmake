@@ -1,4 +1,4 @@
-# Install script for directory: /Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo
+# Install script for directory: /Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
