@@ -1,3 +1,3 @@
-/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/Csabi/Desktop/Todo app/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles/todo.dir
+/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Csabi/Desktop/csabigit/greenfox/91bcsabi/91bcsabi/week-4/day-4/bcsabi-Todo-app/todo/cmake-build-debug/CMakeFiles/todo.dir

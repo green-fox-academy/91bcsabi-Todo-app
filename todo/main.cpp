@@ -13,6 +13,8 @@ void printUsage() {
     std::cout << "      -c   Completes an task" << std::endl;
 }
 
+void
+
 void listTasks() {
     std::ifstream myFile;
     myFile.open("tasks.txt");
