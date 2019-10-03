@@ -13,6 +13,13 @@ void printUsage() {
     std::cout << "      -c   Completes an task" << std::endl;
 }
 
+void addTask(std::string newTask){
+    std::ofstream myFile;
+    myFile.open("tasks.txt", std::ios::app);
+    myFile << "\n" + newTask;
+    myFile.close();
+}
+
 void listTasks() {
     std::ifstream myFile;
     myFile.open("tasks.txt");
@@ -30,11 +37,16 @@ void listTasks() {
 int main(int argc, char *argv[]) {
     if (argc == 1) {
         printUsage();
-    } else {
-        if (std::string(argv[1]) == ("-l")) {
-            listTasks();
-        }
+    } else if (std::string(argv[1]) == ("-l")) {
+        listTasks();
     }
+    else if(std::string(argv[1]) == ("-a")){
+        if (argc == 2){
+                std::cout << "not written anything after -a .please add something" << std::endl;
+        }else{
+            addTask(argv[2]);
+            }
+        }
     /*
 }else if(std::string(argv[1]) == ("-a")){
     //add...
